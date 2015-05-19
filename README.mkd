@@ -1,6 +1,6 @@
 ##Very simple and quick to fire up mock server
 
-This code is sipporting SOAP 1.1, but can virtually support any SOAP, WSDL, JSON, etc HTTP mocking needs.
+This code is currently supporting SOAP 1.1, but can virtually support any SOAP, WSDL, JSON, etc HTTP mocking needs.
 
 It is totally based on the nodes module [https://github.com/gstroup/apimocker](https://github.com/gstroup/apimocker). Just follow the instructions to get the apimocker set up.
 
